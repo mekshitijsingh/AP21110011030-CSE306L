@@ -7,3 +7,5 @@ https://github.com/mekshitijsingh/AP21110011030-CSE306L/blob/85806a186eec0e107af
 
 2. Implementation of Language recognizer for set of all strings ending with two symbols of
 same type.
+
+https://github.com/mekshitijsingh/AP21110011030-CSE306L/blob/main/Week1/EndWithTwoSameSymbol.c
