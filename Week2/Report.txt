@@ -15,15 +15,10 @@ STATEMENT:
         • Hash table
         • And other ways.
 
-	In this lab session, you are required to analyse the various implementations. You need to write
-	code for at least two ways of implementation. Test your code with different test cases. Submit
-	a report of your analysis and executable code by the end of the session.
+In this lab session, we are required to analyse the various implementations. We need to write code for at least two ways of implementation. Tested our code with different test cases. Submitted a report of our analysis and executable code.
  
  PROCEDURE:
-            I written the code in c programming language,first i take a character input(EXPRESSION) and i am creating two array to store the values 
-            and the adress of that values in the pointer array and if the input is alphabet it prints identifier for this i am using is 
-            isalpha() function and if it is not i am comparing with some operators using if block if it is a special character it will 
-            print operator.
+            We have written the code in c programming language, first we have taken a character input(EXPRESSION) and we are creating two array to store the values and the address of that values in the pointer array and if the input is alphabet it prints identifier for this we are using isalpha() function and if it is not the we are comparing with some operators using if block if it is a special character it will print operator.
  CODE 1:
 #include<stdio.h>
 #include<ctype.h>
@@ -73,10 +68,10 @@ int main()
 }
 
 INPUT:
-         s=a+b;
+	s=a+b;
          
 OUTPUT:
-         Input the expression ending with ; sign:s=a+b;
+	Input the expression ending with ; sign:s=a+b;
 
  Symbol Table display
 Symbol 	 addr 			 type
@@ -91,8 +86,7 @@ Symbol 	 addr 			 type
  b 	 0x562b28f42c40 	 identifier
 
  CONCLUSION:
-             Symbol table is a data structure used by the compiler, where each identifier in program’s source code is stored 
-             along with information associated with it relating to its declaration.
+Symbol table is a data structure used by the compiler, where each identifier in program’s source code is stored along with information associated with it relating to its declaration.
 
 CODE 2:
 
@@ -152,6 +146,7 @@ class BinarySearchTree {
 }
 
 
-/*
-OUTPUT -42
-*/
+
+OUTPUT:
+-42
+
